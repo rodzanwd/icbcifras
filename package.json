@@ -1,0 +1,41 @@
+{
+  "name": "icbcifras",
+  "version": "1.0.0",
+  "description": "Um simples app de cifras para o Ministério de Música e Arte da Igreja Cristã Bíblica",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ./server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodzanwd/icbcifras.git"
+  },
+  "keywords": [
+    "icb",
+    "igreja",
+    "cristã",
+    "bíblica",
+    "javascript",
+    "ionic",
+    "node",
+    "angular",
+    "cifras",
+    "música"
+  ],
+  "author": "Rodrigo Zan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodzanwd/icbcifras/issues"
+  },
+  "homepage": "https://github.com/rodzanwd/icbcifras#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "connect-multiparty": "^2.1.0",
+    "consign": "^0.1.6",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.5"
+  }
+}
