@@ -1,5 +1,5 @@
 {
-  "name": "icbcifras",
+  "name": "icbcifras-api",
   "version": "1.0.0",
   "description": "Um simples app de cifras para o Ministério de Música e Arte da Igreja Cristã Bíblica",
   "main": "server.js",
